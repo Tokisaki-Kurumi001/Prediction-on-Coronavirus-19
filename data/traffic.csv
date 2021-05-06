@@ -1,0 +1,524 @@
+Date,City,State,PercentOfBaseline
+2020/3/16,Los Angeles,California,98
+2020/3/16,South San Francisco,California,81
+2020/3/17,Los Angeles,California,99
+2020/3/17,South San Francisco,California,89
+2020/3/18,Los Angeles,California,89
+2020/3/18,South San Francisco,California,70
+2020/3/19,Los Angeles,California,88
+2020/3/19,South San Francisco,California,59
+2020/3/20,Los Angeles,California,84
+2020/3/20,South San Francisco,California,58
+2020/3/21,Los Angeles,California,76
+2020/3/21,South San Francisco,California,70
+2020/3/22,Los Angeles,California,76
+2020/3/22,South San Francisco,California,84
+2020/3/23,Los Angeles,California,73
+2020/3/23,South San Francisco,California,57
+2020/3/24,Los Angeles,California,71
+2020/3/24,South San Francisco,California,61
+2020/3/25,Los Angeles,California,72
+2020/3/25,South San Francisco,California,54
+2020/3/26,Los Angeles,California,76
+2020/3/26,South San Francisco,California,50
+2020/3/27,Los Angeles,California,69
+2020/3/27,South San Francisco,California,48
+2020/3/28,Los Angeles,California,66
+2020/3/28,South San Francisco,California,55
+2020/3/29,Los Angeles,California,58
+2020/3/29,South San Francisco,California,45
+2020/3/30,Los Angeles,California,69
+2020/3/30,South San Francisco,California,49
+2020/3/31,Los Angeles,California,70
+2020/3/31,South San Francisco,California,46
+2020/4/1,Los Angeles,California,65
+2020/4/1,South San Francisco,California,54
+2020/4/2,Los Angeles,California,70
+2020/4/2,South San Francisco,California,47
+2020/4/3,Los Angeles,California,63
+2020/4/3,South San Francisco,California,41
+2020/4/4,Los Angeles,California,55
+2020/4/4,South San Francisco,California,34
+2020/4/5,Los Angeles,California,46
+2020/4/5,South San Francisco,California,26
+2020/4/6,Los Angeles,California,55
+2020/4/6,South San Francisco,California,37
+2020/4/7,Los Angeles,California,59
+2020/4/7,South San Francisco,California,38
+2020/4/8,Los Angeles,California,62
+2020/4/8,South San Francisco,California,50
+2020/4/9,Los Angeles,California,55
+2020/4/9,South San Francisco,California,38
+2020/4/10,Los Angeles,California,60
+2020/4/10,South San Francisco,California,37
+2020/4/11,Los Angeles,California,52
+2020/4/11,South San Francisco,California,25
+2020/4/12,Los Angeles,California,43
+2020/4/12,South San Francisco,California,29
+2020/4/13,Los Angeles,California,59
+2020/4/13,South San Francisco,California,37
+2020/4/14,Los Angeles,California,63
+2020/4/14,South San Francisco,California,47
+2020/4/15,Los Angeles,California,58
+2020/4/15,South San Francisco,California,39
+2020/4/16,Los Angeles,California,59
+2020/4/16,South San Francisco,California,38
+2020/4/17,Los Angeles,California,62
+2020/4/17,South San Francisco,California,40
+2020/4/18,Los Angeles,California,57
+2020/4/18,South San Francisco,California,33
+2020/4/19,Los Angeles,California,43
+2020/4/19,South San Francisco,California,21
+2020/4/20,Los Angeles,California,59
+2020/4/20,South San Francisco,California,46
+2020/4/21,Los Angeles,California,61
+2020/4/21,South San Francisco,California,46
+2020/4/22,Los Angeles,California,60
+2020/4/22,South San Francisco,California,41
+2020/4/23,Los Angeles,California,63
+2020/4/23,South San Francisco,California,39
+2020/4/24,Los Angeles,California,61
+2020/4/24,South San Francisco,California,42
+2020/4/25,Los Angeles,California,55
+2020/4/25,South San Francisco,California,31
+2020/4/26,Los Angeles,California,49
+2020/4/26,South San Francisco,California,21
+2020/4/27,Los Angeles,California,61
+2020/4/27,South San Francisco,California,43
+2020/4/28,Los Angeles,California,68
+2020/4/28,South San Francisco,California,44
+2020/4/29,Los Angeles,California,61
+2020/4/29,South San Francisco,California,44
+2020/4/30,Los Angeles,California,64
+2020/4/30,South San Francisco,California,50
+2020/5/1,Los Angeles,California,64
+2020/5/1,South San Francisco,California,41
+2020/5/2,Los Angeles,California,61
+2020/5/2,South San Francisco,California,27
+2020/5/3,Los Angeles,California,50
+2020/5/3,South San Francisco,California,22
+2020/5/4,Los Angeles,California,63
+2020/5/4,South San Francisco,California,37
+2020/5/5,Los Angeles,California,69
+2020/5/5,South San Francisco,California,41
+2020/5/6,Los Angeles,California,66
+2020/5/6,South San Francisco,California,44
+2020/5/7,Los Angeles,California,72
+2020/5/7,South San Francisco,California,37
+2020/5/8,Los Angeles,California,68
+2020/5/8,South San Francisco,California,49
+2020/5/9,Los Angeles,California,56
+2020/5/9,South San Francisco,California,38
+2020/5/10,Los Angeles,California,53
+2020/5/10,South San Francisco,California,24
+2020/5/11,Los Angeles,California,63
+2020/5/11,South San Francisco,California,44
+2020/5/12,Los Angeles,California,66
+2020/5/12,South San Francisco,California,49
+2020/5/13,Los Angeles,California,64
+2020/5/13,South San Francisco,California,49
+2020/5/14,Los Angeles,California,64
+2020/5/14,South San Francisco,California,48
+2020/5/15,Los Angeles,California,68
+2020/5/15,South San Francisco,California,56
+2020/5/16,Los Angeles,California,60
+2020/5/16,South San Francisco,California,38
+2020/5/17,Los Angeles,California,54
+2020/5/17,South San Francisco,California,28
+2020/5/18,Los Angeles,California,60
+2020/5/18,South San Francisco,California,38
+2020/5/19,Los Angeles,California,67
+2020/5/19,South San Francisco,California,54
+2020/5/20,Los Angeles,California,62
+2020/5/20,South San Francisco,California,62
+2020/5/21,Los Angeles,California,66
+2020/5/21,South San Francisco,California,59
+2020/5/22,Los Angeles,California,67
+2020/5/22,South San Francisco,California,58
+2020/5/23,Los Angeles,California,59
+2020/5/23,South San Francisco,California,40
+2020/5/24,Los Angeles,California,52
+2020/5/24,South San Francisco,California,23
+2020/5/25,Los Angeles,California,32
+2020/5/25,South San Francisco,California,21
+2020/5/26,Los Angeles,California,51
+2020/5/26,South San Francisco,California,35
+2020/5/27,Los Angeles,California,66
+2020/5/27,South San Francisco,California,45
+2020/5/28,Los Angeles,California,69
+2020/5/28,South San Francisco,California,47
+2020/5/29,Los Angeles,California,70
+2020/5/29,South San Francisco,California,51
+2020/5/30,Los Angeles,California,60
+2020/5/30,South San Francisco,California,45
+2020/5/31,Los Angeles,California,55
+2020/5/31,South San Francisco,California,23
+2020/6/1,Los Angeles,California,61
+2020/6/1,South San Francisco,California,45
+2020/6/2,Los Angeles,California,67
+2020/6/2,South San Francisco,California,40
+2020/6/3,Los Angeles,California,63
+2020/6/3,South San Francisco,California,44
+2020/6/4,Los Angeles,California,68
+2020/6/4,South San Francisco,California,42
+2020/6/5,Los Angeles,California,66
+2020/6/5,South San Francisco,California,41
+2020/6/6,Los Angeles,California,64
+2020/6/6,South San Francisco,California,37
+2020/6/7,Los Angeles,California,53
+2020/6/7,South San Francisco,California,28
+2020/6/8,Los Angeles,California,69
+2020/6/8,South San Francisco,California,41
+2020/6/9,Los Angeles,California,66
+2020/6/9,South San Francisco,California,43
+2020/6/10,Los Angeles,California,66
+2020/6/10,South San Francisco,California,42
+2020/6/11,Los Angeles,California,66
+2020/6/11,South San Francisco,California,45
+2020/6/12,Los Angeles,California,65
+2020/6/12,South San Francisco,California,36
+2020/6/13,Los Angeles,California,60
+2020/6/13,South San Francisco,California,37
+2020/6/14,Los Angeles,California,54
+2020/6/14,South San Francisco,California,27
+2020/6/15,Los Angeles,California,69
+2020/6/15,South San Francisco,California,47
+2020/6/16,Los Angeles,California,69
+2020/6/16,South San Francisco,California,50
+2020/6/17,Los Angeles,California,67
+2020/6/17,South San Francisco,California,54
+2020/6/18,Los Angeles,California,71
+2020/6/18,South San Francisco,California,46
+2020/6/19,Los Angeles,California,60
+2020/6/19,South San Francisco,California,51
+2020/6/20,Los Angeles,California,53
+2020/6/20,South San Francisco,California,36
+2020/6/21,Los Angeles,California,46
+2020/6/21,South San Francisco,California,20
+2020/6/22,Los Angeles,California,63
+2020/6/22,South San Francisco,California,51
+2020/6/23,Los Angeles,California,67
+2020/6/23,South San Francisco,California,45
+2020/6/24,Los Angeles,California,67
+2020/6/24,South San Francisco,California,44
+2020/6/25,Los Angeles,California,69
+2020/6/25,South San Francisco,California,47
+2020/6/26,Los Angeles,California,68
+2020/6/26,South San Francisco,California,50
+2020/6/27,Los Angeles,California,59
+2020/6/27,South San Francisco,California,46
+2020/6/28,Los Angeles,California,55
+2020/6/28,South San Francisco,California,24
+2020/6/29,Los Angeles,California,66
+2020/6/29,South San Francisco,California,50
+2020/6/30,Los Angeles,California,72
+2020/6/30,South San Francisco,California,50
+2020/7/1,Los Angeles,California,71
+2020/7/1,South San Francisco,California,52
+2020/7/2,Los Angeles,California,72
+2020/7/2,South San Francisco,California,48
+2020/7/3,Los Angeles,California,61
+2020/7/3,South San Francisco,California,33
+2020/7/4,Los Angeles,California,36
+2020/7/4,South San Francisco,California,22
+2020/7/5,Los Angeles,California,39
+2020/7/5,South San Francisco,California,29
+2020/7/6,Los Angeles,California,69
+2020/7/6,South San Francisco,California,46
+2020/7/7,Los Angeles,California,71
+2020/7/7,South San Francisco,California,53
+2020/7/8,Los Angeles,California,70
+2020/7/8,South San Francisco,California,51
+2020/7/9,Los Angeles,California,73
+2020/7/9,South San Francisco,California,46
+2020/7/10,Los Angeles,California,71
+2020/7/10,South San Francisco,California,49
+2020/7/11,Los Angeles,California,66
+2020/7/11,South San Francisco,California,39
+2020/7/12,Los Angeles,California,57
+2020/7/12,South San Francisco,California,29
+2020/7/13,Los Angeles,California,75
+2020/7/13,South San Francisco,California,48
+2020/7/14,Los Angeles,California,79
+2020/7/14,South San Francisco,California,49
+2020/7/15,Los Angeles,California,74
+2020/7/15,South San Francisco,California,48
+2020/7/16,Los Angeles,California,78
+2020/7/16,South San Francisco,California,45
+2020/7/17,Los Angeles,California,80
+2020/7/17,South San Francisco,California,55
+2020/7/18,Los Angeles,California,70
+2020/7/18,South San Francisco,California,47
+2020/7/19,Los Angeles,California,68
+2020/7/19,South San Francisco,California,28
+2020/7/20,Los Angeles,California,74
+2020/7/20,South San Francisco,California,54
+2020/7/21,Los Angeles,California,77
+2020/7/21,South San Francisco,California,55
+2020/7/22,Los Angeles,California,76
+2020/7/22,South San Francisco,California,55
+2020/7/23,Los Angeles,California,77
+2020/7/23,South San Francisco,California,49
+2020/7/24,Los Angeles,California,72
+2020/7/24,South San Francisco,California,57
+2020/7/25,Los Angeles,California,68
+2020/7/25,South San Francisco,California,43
+2020/7/26,Los Angeles,California,66
+2020/7/26,South San Francisco,California,40
+2020/7/27,Los Angeles,California,72
+2020/7/27,South San Francisco,California,61
+2020/7/28,Los Angeles,California,72
+2020/7/28,South San Francisco,California,60
+2020/7/29,Los Angeles,California,70
+2020/7/29,South San Francisco,California,57
+2020/7/30,Los Angeles,California,70
+2020/7/30,South San Francisco,California,51
+2020/7/31,Los Angeles,California,70
+2020/7/31,South San Francisco,California,53
+2020/8/1,Los Angeles,California,71
+2020/8/1,South San Francisco,California,47
+2020/8/2,Los Angeles,California,57
+2020/8/2,South San Francisco,California,41
+2020/8/3,Los Angeles,California,71
+2020/8/3,South San Francisco,California,59
+2020/8/4,Los Angeles,California,76
+2020/8/4,South San Francisco,California,57
+2020/8/5,Los Angeles,California,72
+2020/8/5,South San Francisco,California,63
+2020/8/6,Los Angeles,California,79
+2020/8/6,South San Francisco,California,64
+2020/8/7,Los Angeles,California,76
+2020/8/7,South San Francisco,California,59
+2020/8/8,Los Angeles,California,66
+2020/8/8,South San Francisco,California,44
+2020/8/9,Los Angeles,California,66
+2020/8/9,South San Francisco,California,49
+2020/8/10,Los Angeles,California,77
+2020/8/10,South San Francisco,California,53
+2020/8/11,Los Angeles,California,75
+2020/8/11,South San Francisco,California,51
+2020/8/12,Los Angeles,California,71
+2020/8/12,South San Francisco,California,53
+2020/8/13,Los Angeles,California,78
+2020/8/13,South San Francisco,California,50
+2020/8/14,Los Angeles,California,76
+2020/8/14,South San Francisco,California,57
+2020/8/15,Los Angeles,California,69
+2020/8/15,South San Francisco,California,49
+2020/8/16,Los Angeles,California,63
+2020/8/16,South San Francisco,California,45
+2020/8/17,Los Angeles,California,1
+2020/8/18,Los Angeles,California,75
+2020/8/18,South San Francisco,California,52
+2020/8/19,Los Angeles,California,73
+2020/8/19,South San Francisco,California,48
+2020/8/20,Los Angeles,California,80
+2020/8/20,South San Francisco,California,47
+2020/8/21,Los Angeles,California,77
+2020/8/21,South San Francisco,California,48
+2020/8/22,Los Angeles,California,67
+2020/8/22,South San Francisco,California,41
+2020/8/23,Los Angeles,California,69
+2020/8/23,South San Francisco,California,55
+2020/8/24,Los Angeles,California,80
+2020/8/24,South San Francisco,California,50
+2020/8/25,Los Angeles,California,76
+2020/8/25,South San Francisco,California,58
+2020/8/26,Los Angeles,California,78
+2020/8/26,South San Francisco,California,55
+2020/8/27,Los Angeles,California,80
+2020/8/27,South San Francisco,California,50
+2020/8/28,Los Angeles,California,79
+2020/8/28,South San Francisco,California,54
+2020/8/29,Los Angeles,California,80
+2020/8/29,South San Francisco,California,44
+2020/8/30,Los Angeles,California,66
+2020/8/30,South San Francisco,California,44
+2020/8/31,Los Angeles,California,80
+2020/8/31,South San Francisco,California,53
+2020/9/1,Los Angeles,California,82
+2020/9/1,South San Francisco,California,80
+2020/9/2,Los Angeles,California,75
+2020/9/2,South San Francisco,California,56
+2020/9/3,Los Angeles,California,80
+2020/9/3,South San Francisco,California,60
+2020/9/4,Los Angeles,California,79
+2020/9/4,South San Francisco,California,73
+2020/9/5,Los Angeles,California,74
+2020/9/5,South San Francisco,California,47
+2020/9/6,Los Angeles,California,66
+2020/9/6,South San Francisco,California,40
+2020/9/7,Los Angeles,California,44
+2020/9/7,South San Francisco,California,19
+2020/9/8,Los Angeles,California,67
+2020/9/8,South San Francisco,California,64
+2020/9/9,Los Angeles,California,76
+2020/9/9,South San Francisco,California,62
+2020/9/10,Los Angeles,California,80
+2020/9/10,South San Francisco,California,61
+2020/9/11,Los Angeles,California,79
+2020/9/11,South San Francisco,California,57
+2020/9/12,Los Angeles,California,77
+2020/9/12,South San Francisco,California,46
+2020/9/13,Los Angeles,California,71
+2020/9/13,South San Francisco,California,40
+2020/9/14,Los Angeles,California,75
+2020/9/14,South San Francisco,California,49
+2020/9/15,Los Angeles,California,83
+2020/9/15,South San Francisco,California,65
+2020/9/16,Los Angeles,California,75
+2020/9/16,South San Francisco,California,50
+2020/9/17,Los Angeles,California,77
+2020/9/17,South San Francisco,California,54
+2020/9/18,Los Angeles,California,75
+2020/9/18,South San Francisco,California,69
+2020/9/19,Los Angeles,California,76
+2020/9/19,South San Francisco,California,49
+2020/9/20,Los Angeles,California,71
+2020/9/20,South San Francisco,California,48
+2020/9/21,Los Angeles,California,79
+2020/9/21,South San Francisco,California,61
+2020/9/22,Los Angeles,California,78
+2020/9/22,South San Francisco,California,66
+2020/9/23,Los Angeles,California,78
+2020/9/23,South San Francisco,California,52
+2020/9/24,Los Angeles,California,78
+2020/9/24,South San Francisco,California,57
+2020/9/25,Los Angeles,California,78
+2020/9/25,South San Francisco,California,57
+2020/9/26,Los Angeles,California,75
+2020/9/26,South San Francisco,California,45
+2020/9/27,Los Angeles,California,68
+2020/9/27,South San Francisco,California,36
+2020/9/28,Los Angeles,California,77
+2020/9/28,South San Francisco,California,47
+2020/9/29,Los Angeles,California,75
+2020/9/29,South San Francisco,California,61
+2020/9/30,Los Angeles,California,73
+2020/9/30,South San Francisco,California,59
+2020/10/1,Los Angeles,California,80
+2020/10/1,South San Francisco,California,53
+2020/10/2,Los Angeles,California,79
+2020/10/2,South San Francisco,California,64
+2020/10/3,Los Angeles,California,75
+2020/10/3,South San Francisco,California,60
+2020/10/4,Los Angeles,California,71
+2020/10/4,South San Francisco,California,43
+2020/10/5,Los Angeles,California,78
+2020/10/5,South San Francisco,California,51
+2020/10/6,Los Angeles,California,78
+2020/10/6,South San Francisco,California,67
+2020/10/7,Los Angeles,California,74
+2020/10/7,South San Francisco,California,60
+2020/10/8,Los Angeles,California,81
+2020/10/8,South San Francisco,California,50
+2020/10/9,Los Angeles,California,77
+2020/10/9,South San Francisco,California,48
+2020/10/10,Los Angeles,California,72
+2020/10/10,South San Francisco,California,43
+2020/10/11,Los Angeles,California,70
+2020/10/11,South San Francisco,California,45
+2020/10/12,Los Angeles,California,79
+2020/10/12,South San Francisco,California,39
+2020/10/13,Los Angeles,California,83
+2020/10/13,South San Francisco,California,46
+2020/10/14,Los Angeles,California,77
+2020/10/14,South San Francisco,California,55
+2020/10/15,Los Angeles,California,81
+2020/10/15,South San Francisco,California,51
+2020/10/16,Los Angeles,California,80
+2020/10/16,South San Francisco,California,51
+2020/10/17,Los Angeles,California,77
+2020/10/17,South San Francisco,California,41
+2020/10/18,Los Angeles,California,79
+2020/10/18,South San Francisco,California,41
+2020/10/19,Los Angeles,California,81
+2020/10/19,South San Francisco,California,42
+2020/10/20,Los Angeles,California,83
+2020/10/20,South San Francisco,California,54
+2020/10/21,Los Angeles,California,83
+2020/10/21,South San Francisco,California,50
+2020/10/22,Los Angeles,California,88
+2020/10/22,South San Francisco,California,50
+2020/10/23,Los Angeles,California,85
+2020/10/23,South San Francisco,California,51
+2020/10/24,Los Angeles,California,80
+2020/10/24,South San Francisco,California,50
+2020/10/25,Los Angeles,California,82
+2020/10/25,South San Francisco,California,39
+2020/10/26,Los Angeles,California,84
+2020/10/26,South San Francisco,California,48
+2020/10/27,Los Angeles,California,86
+2020/10/27,South San Francisco,California,52
+2020/10/28,Los Angeles,California,81
+2020/10/28,South San Francisco,California,57
+2020/10/29,Los Angeles,California,83
+2020/10/29,South San Francisco,California,56
+2020/10/30,Los Angeles,California,82
+2020/10/30,South San Francisco,California,53
+2020/10/31,Los Angeles,California,78
+2020/10/31,South San Francisco,California,42
+2020/11/1,Los Angeles,California,71
+2020/11/1,South San Francisco,California,37
+2020/11/2,Los Angeles,California,80
+2020/11/2,South San Francisco,California,44
+2020/11/3,Los Angeles,California,80
+2020/11/3,South San Francisco,California,49
+2020/11/4,Los Angeles,California,82
+2020/11/4,South San Francisco,California,40
+2020/11/5,Los Angeles,California,86
+2020/11/5,South San Francisco,California,43
+2020/11/6,Los Angeles,California,87
+2020/11/6,South San Francisco,California,43
+2020/11/7,Los Angeles,California,81
+2020/11/7,South San Francisco,California,42
+2020/11/8,Los Angeles,California,77
+2020/11/8,South San Francisco,California,49
+2020/11/9,Los Angeles,California,78
+2020/11/9,South San Francisco,California,44
+2020/11/10,Los Angeles,California,88
+2020/11/10,South San Francisco,California,51
+2020/11/11,Los Angeles,California,75
+2020/11/11,South San Francisco,California,51
+2020/11/12,Los Angeles,California,84
+2020/11/12,South San Francisco,California,45
+2020/11/13,Los Angeles,California,90
+2020/11/13,South San Francisco,California,43
+2020/11/14,Los Angeles,California,79
+2020/11/14,South San Francisco,California,45
+2020/11/15,Los Angeles,California,72
+2020/11/15,South San Francisco,California,47
+2020/11/16,Los Angeles,California,82
+2020/11/16,South San Francisco,California,45
+2020/11/17,Los Angeles,California,87
+2020/11/17,South San Francisco,California,59
+2020/11/18,Los Angeles,California,80
+2020/11/18,South San Francisco,California,48
+2020/11/19,Los Angeles,California,83
+2020/11/19,South San Francisco,California,47
+2020/11/20,Los Angeles,California,86
+2020/11/20,South San Francisco,California,56
+2020/11/21,Los Angeles,California,85
+2020/11/21,South San Francisco,California,49
+2020/11/22,Los Angeles,California,86
+2020/11/22,South San Francisco,California,46
+2020/11/23,Los Angeles,California,87
+2020/11/23,South San Francisco,California,45
+2020/11/24,Los Angeles,California,89
+2020/11/24,South San Francisco,California,66
+2020/11/25,Los Angeles,California,86
+2020/11/25,South San Francisco,California,54
+2020/11/26,Los Angeles,California,55
+2020/11/26,South San Francisco,California,26
+2020/11/27,Los Angeles,California,48
+2020/11/27,South San Francisco,California,23
+2020/11/28,Los Angeles,California,72
+2020/11/28,South San Francisco,California,30
+2020/11/29,Los Angeles,California,76
+2020/11/29,South San Francisco,California,53
+2020/11/30,Los Angeles,California,80
+2020/11/30,South San Francisco,California,46
+2020/12/1,Los Angeles,California,86
+2020/12/1,South San Francisco,California,62
+2020/12/2,Los Angeles,California,81
+2020/12/2,South San Francisco,California,63
